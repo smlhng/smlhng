@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @smlhng
-- 👀 I’m interested in web development/machine learning
-- 🌱 I’m currently learning n/a
-- 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me email
 
 <!---
